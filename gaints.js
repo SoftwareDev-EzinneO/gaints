@@ -7,4 +7,5 @@ let Name = "Zinnie";
     position = "software Developer"
     message = "hi eveyone";
 
-    alert(`${message} my name is ${Name} i am ${age} years old i am ${Status} and i am ${height} working as a ${position}`)
+    alert(`${message} my name is ${Name} i am ${age} years old i am ${Status} and i am ${height} working as a ${position}`);
+   
